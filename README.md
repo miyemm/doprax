@@ -1,11 +1,6 @@
 #### Doprax一键五协议共存
 
 #### Xray内核，支持vless，vmess，trojan，shadowsocks，socks五个配置同时在线！支持自定义伪装网站
-
-#### [YouTube video tutorials](https://www.youtube.com/playlist?list=PLMgly2AulGG-peT3CZoJFY68KbVg_D_lB)
-
-#### [相关文字视频教程请点击](https://ygkkk.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html)
-
 ------------------------
 
 #### 以下变量都为非必选变量，按需求添加
